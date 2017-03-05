@@ -20,6 +20,7 @@ try {
 var webpackConfig = {
   entry: {
     'main': './src/main.browser.ts',
+    
   },
 
   output: {
