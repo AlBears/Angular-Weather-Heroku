@@ -7,8 +7,7 @@ node_modules
 jspm_packages
 npm-debug.*
 link-checker-results.txt
-src/app/**/*.js
-!src/app/weather-widget/js/skycons.js
+
 *.js.map
 _test-output
 _temp
